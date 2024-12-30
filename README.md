@@ -1,2 +1,2 @@
-# React-Native_project_1
+# React-Native_Project
 First project on React-Native app
